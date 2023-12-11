@@ -20,7 +20,6 @@ import random
 n = int(input("Enter number(the largest number for the list): "))
 
 num = str(random.randint(1, n))
-print(num)
 num_yes = set()
 num_no = set()
 
